@@ -29,7 +29,7 @@ int main(){
         scanf("%d",&arr[i]);
     }
     insert(len);
-   // hello there
+    
 
     
     return 0;
